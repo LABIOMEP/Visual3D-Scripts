@@ -74,7 +74,7 @@ A second workspace is presented with the result of the script.
 - During downsampling, some files may prompt to load a file. This feature is not coded, and its source is unknown. Simply press click "Cancel" and the downsampling will resume.
 
 ## Disclaimer
-These scrips and files are provided for research and teaching purpose. Their use for comercial purposes is not allowed without prior and written authorization from LABIOMEP board of directors.*
+These scrips and files are provided for research and teaching purpose. Their use for comercial purposes is not allowed without prior and written authorization from LABIOMEP board of directors.
 
 
 
