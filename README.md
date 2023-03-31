@@ -44,22 +44,22 @@ A second workspace is presented with the result of the script.
 
 ## How to
 ### HybridMerge
-1. Open the Golf.cmz in Visual3D
-2. Load and execute the pipeline MergeHybrid.v3d
-3. Select the markerless system sampling frequency (this will downsample the markers)
+1. Open the Golf.cmz in Visual3D.
+2. Load and execute the pipeline MergeHybrid.v3d.
+3. Select the markerless system sampling frequency (this will downsample the markers). This example used 100 Hz.
 4. Select the marker-based C3D files to merge. You can select all at the same time.
-5. Wait for the downsampling
+5. Wait for the downsampling.
 
 *Note: if Visual3D crashes while downsampling, it means that the imported marker C3D file was missing marker information (is empty).*
 
 6. Save the new Workspace.
 
 ### HybridMergeStatic
-1. Open the Golf.cmz in Visual3D
-2. Load and execute the pipeline MergeHybrid.v3d
-3. Select the markerless system sampling frequency (this will downsample the markers)
+1. Open the Golf.cmz in Visual3D.
+2. Load and execute the pipeline MergeHybrid.v3d.
+3. Select the markerless system sampling frequency (this will downsample the markers). This example used 200 Hz.
 4. Select the marker-based C3D files to merge. You can select all at the same time.
-5. Wait for the downsampling
+5. Wait for the downsampling.
 
 *Note: if Visual3D crashes while downsampling, it means that the imported marker C3D file was missing marker information (is empty).*
 
