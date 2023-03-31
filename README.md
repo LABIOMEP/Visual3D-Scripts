@@ -49,7 +49,9 @@ A second workspace is presented with the result of the script.
 3. Select the markerless system sampling frequency (this will downsample the markers)
 4. Select the marker-based C3D files to merge. You can select all at the same time.
 5. Wait for the downsampling
+
 *Note: if Visual3D crashes while downsampling, it means that the imported marker C3D file was missing marker information (is empty).*
+
 6. Save the new Workspace.
 
 ### HybridMergeStatic
@@ -58,7 +60,9 @@ A second workspace is presented with the result of the script.
 3. Select the markerless system sampling frequency (this will downsample the markers)
 4. Select the marker-based C3D files to merge. You can select all at the same time.
 5. Wait for the downsampling
+
 *Note: if Visual3D crashes while downsampling, it means that the imported marker C3D file was missing marker information (is empty).*
+
 6. Select a file from the workspace to be used as Static Calibration file.
 7. Confirm the assignment removel of the old model (just press OK).
 8. Go to the Model tab. You may add new rigid bodies based on the markers, or press "Build", as this script did not perform this step.
