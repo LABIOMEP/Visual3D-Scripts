@@ -68,7 +68,9 @@ A second workspace is presented with the result of the script.
 8. Go to the Model tab. You may add new rigid bodies based on the markers, or press "Build", as this script did not perform this step.
 9. Save the new Workspace.
 
-*Disclaimer: these scrips and files are provided for research and teaching purpose. Their use for comercial purposes is not allowed without prior and written authorization from LABIOMEP board of directors.*
+
+## Disclaimer
+These scrips and files are provided for research and teaching purpose. Their use for comercial purposes is not allowed without prior and written authorization from LABIOMEP board of directors.*
 
 
 
