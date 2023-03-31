@@ -71,7 +71,7 @@ A second workspace is presented with the result of the script.
 
 ## Known issues are:
 - The lack of markers in a marker C3D file will crash Visual3D.
-- During downsampling, some files may prompt to load a file. This feature is not coded, and its source is unknown. Simply press click "Cancel" and the downsampling will resume.
+- During downsampling, some files may prompt to load a file. This feature is not coded, and its source is unknown. Simply press "Cancel" and the downsampling will resume.
 
 ## Disclaimer
 These scrips and files are provided for research and teaching purpose. Their use for comercial purposes is not allowed without prior and written authorization from LABIOMEP board of directors.
